@@ -1,0 +1,38 @@
+.navIteamCustomDesign {
+  color: white;
+  font-weight: 700;
+  text-decoration: none;
+  padding: 5px 15px;
+}
+.navIteamCustomDesign:hover {
+  text-decoration: none;
+  color: rgb(2, 2, 2);
+}
+.Nab-brand {
+  color: aqua;
+  text-decoration: none;
+  font-size: 2rem;
+  font-weight: 700;
+}
+.HeaderNav{
+ background-color:  rgba(86, 8, 231, 0.6);
+}
+.Nab-brand:hover {
+  color: rgb(36, 13, 251) !important;
+  text-decoration: none !important;
+}
+.icon-color {
+  color: rgb(0, 0, 0);
+}
+
+.headerUserInfo span {
+  color: rgba(255, 255, 255, 0.603);
+  font-size: 1rem;
+  font-weight: 700;
+}
+.headerUserInfo .headerLogoImage {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background-color: rgba(71, 114, 255, 0.678);
+}

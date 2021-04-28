@@ -1,0 +1,12 @@
+.main-body-container{
+  min-height: 100vh;
+  box-sizing: border-box;
+  display: flex;
+  margin-top: 60px;
+  justify-content: center;
+ 
+}
+.containerFluid{
+  background-color: rgba(86, 8, 231, 0.4);
+  padding-bottom: 50px ;
+}

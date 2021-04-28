@@ -1,0 +1,32 @@
+.destination-detailsContainer h2 {
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.text-item-container {
+  background-color: blueviolet;
+  border-radius: 10px;
+  padding: 10px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+.find-transfort-container {
+  background-color: white;
+  border-radius: 10px;
+  padding: 15px 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+.find-transfort-container span {
+  font-size: 1.2rem;
+  color: gray;
+  font-weight: 600;
+}
+.find-transfort-container img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
